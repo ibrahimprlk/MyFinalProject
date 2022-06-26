@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.net\\MyFinalProject\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Project\\MyFinalProject\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\.net\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Project\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.net\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Project\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\.net\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Project\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\.net\\MyFinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Project\\MyFinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\.net\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\.net\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Project\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Project\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -43,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,14 +68,14 @@
         }
       }
     },
-    "C:\\.net\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Project\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.net\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Project\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\.net\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Project\\MyFinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\.net\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Project\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",

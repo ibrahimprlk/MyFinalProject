@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jVKE3KtnAN3jnTKwZKUjaF2Iv1oGEpdcxTQ4+XYj+ccgVx4WIRX08qPUIEvZ83nPv0b7bWbvx1StfFb5PQHToQ==",
+  "dgSpecHash": "ShVCv6APA9n2poOQMC0dCW7XBdr/f+IzTcq0v5KbAyl6XLEHV5py8Syzm3jw/QGfF1W+lRhwlqx5ICyokJ3HtQ==",
   "success": true,
-  "projectFilePath": "C:\\.net\\MyFinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Project\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
