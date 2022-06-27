@@ -18,3 +18,6 @@ C:\Project\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo
 C:\Project\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Project\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Project\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Project\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Project\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Project\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
